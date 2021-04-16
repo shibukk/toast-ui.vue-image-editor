@@ -28,6 +28,7 @@
     "eslint-config-tui": "^2.0.0",
     "eslint-loader": "^2.1.1",
     "eslint-plugin-vue": "^4.7.1",
+    "karma-webdriver-launcher": "git+https://github.com/nhn/karma-webdriver-launcher.git#v1.1.0",
     "safe-umd-webpack-plugin": "^4.0.0",
     "vue": "^2.5.17",
     "vue-loader": "^15.4.2",
